@@ -10,8 +10,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NARUJAT&repo=naru&theme=flag-india)
-
+[![GIF](https://github.com/NARUJAT/NARU/blob/main/DAXXTEAM.gif)](https://github.com/NARUJAT)
+   [![𝗡𝗔𝗥𝗨 𝗝𝗔𝗔𝗧](https://github-stats-alpha.vercel.app/api?username=NARUJAT "NARU")](https://github-stats-alpha.vercel.app/api?username=NARUJAT "NARU")
+                  
 
 <p align="center">
   <img src="https://telegra.ph/file/b99ed1fb1efd15e38389c.png">
