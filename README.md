@@ -21,7 +21,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=𝗦𝗧𝗥𝗜𝗡𝗚+𝗛𝗔𝗖𝗞+𝗕𝗢𝗧+𝗕𝗬+𝗡𝗔𝗥𝗨𝗝𝗔𝗔𝗧">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=𝗠𝗨𝗦𝗜𝗖+𝗕𝗢𝗧+𝗕𝗬+𝗡𝗔𝗥𝗨𝗝𝗔𝗔𝗧">
 
 
 <h3 align="center">
