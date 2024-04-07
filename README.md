@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=NARU+JAAT+MUSIC+BOT;LOVE+YOU+ALL+GUYS+❤️💓.;+NAYRA+𝐗+MUSICBOT+❤️✨+%E2%9D%A4%EF%B8%8F">
+
+
+
+<p align="center">
 <a href="https://github.com/NARUJAT/naru"><img src="https://te.legra.ph/file/7757731c3e8b784b6a550.png" height="270" width="480" alt="naru"/></a>
 </p>
 
