@@ -46,7 +46,7 @@
 - Install pip by :
 `sudo pip3 install -U pip`
 - Clone the repository by :
-`git clone https://github.com/venombolteop/AutoApprove && cd AutoApprove`
+`git clone https://github.com/NARUJAT/naru && cd naru`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
