@@ -21,7 +21,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=❤️ LOVE YOU ALL ❤️">
+
 
 
 <h3 align="center">
