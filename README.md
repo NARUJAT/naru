@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/NARUJAT/naru"><img src="https://graph.org/file/f4e175b28e96bc3fb4cf4.jpg" height="270" width="480" alt="naru"/></a>
+<a href="https://github.com/NARUJAT/naru"><img src="https://te.legra.ph/file/7757731c3e8b784b6a550.png" height="270" width="480" alt="naru"/></a>
 </p>
 
 <p align="center">
