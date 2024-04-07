@@ -1,42 +1,50 @@
+
+<h2 align="center">
+    ─「 naru music 」─
+
+★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
+</h2>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+NARU+JAAT+BOY+🎭">
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NARUJAT&repo=naru&theme=flag-india)
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=NARU+JAAT+MUSIC+BOT;LOVE+YOU+ALL+GUYS+❤️💓.;+NAYRA+𝐗+MUSICBOT+❤️✨+%E2%9D%A4%EF%B8%8F">
-
-
-
-<p align="center">
-<a href="https://github.com/NARUJAT/naru"><img src="https://te.legra.ph/file/7757731c3e8b784b6a550.png" height="270" width="480" alt="naru"/></a>
+  <img src="https://telegra.ph/file/b99ed1fb1efd15e38389c.png">
 </p>
 
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [my love ](https://t.me/nayramusic_bot)**
+
+
+
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗙𝗜𝗥𝗦𝗧𝗟𝗬⚠️">
+
+
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+
+<h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/NARUJAT/naru"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/NARUJAT/naru"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️If+any+error+then+send+eroro+in+mr_naru+Dm+...">
 <p align="center">
-<b>Genius-Userbot</b><br/>
-naru is an advanced & powerful multi-featured Telegram musicbot.
+<a href="https://telegram.me/mr_naru"><img src="https://img.shields.io/badge/-❤️DM NARU JAAT%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
+</h3>
 
-<p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/NARUJAT/naru">
-<img src="AdityaHalder/resource/images/Heroku.svg" alt="Deploy to Heroku"></a>
-</p>
+- 
+### Contact :
+<a href="https://t.me/mr_naru"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/brokenshayri1"><img title="Channel" src="https://img.shields.io/badge/Channel-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-<h2>🤖 naru-musicbot Info</h2>
-<p title="naru">naru-musicbot is an open-source Telegram musicbot developed by using the Python programming language and Pyrogram MTProto client library of the Telegram API and PyTgCalls library, a secure and reliable way to interact with the Telegram platform.</p>
-
-> [!IMPORTANT]
-> If you use naru-musicbot, it is important that you have proper knowledge about it. You should follow the [**`Documentation`**](https://t.me/mr_naru) to learn about naru-musicbot.
-
-<h2>🤝 Contributing</h2>
-<p title="Contributing">As naru-musicbot is an open-source project, all kinds of contributions are respectfully welcomed, and I also extend my sincere thanks to all contributors.</p>
-
-<h2>🌐 Updates & Support</h2>
-<p title="Support">You can join naru-musicbot's official Telegram channel and group on Telegram for any naru-musicbot updates and support-related issues.</p>
-
-- Telegram Updates: [**`jaatbot`**](https://t.me/brokenshayri1)
-
-- Telegram Support: [**`jaatboy`**](https://t.me/shayrigalibki)
-> [!WARNING]  
-> Verify the username of naru-musicbot's official Telegram channel and group. If you face a problem with a fake channel or group, naru-musicbot will not take responsibility for it, so I request that you verify naru-musicbot's official Telegram channel and group.
-
-
-<h2>📑 Acknowledgement / Credits</h2>
-
-- [**`Pyrogram:`**](https://github.com/pyrogram) All functions of Genius-Userbot based on this mtproto client library.
-- [**`Py-TgCalls:`**](https://github.com/py-tgcalls) Streaming system of Genius-Userbot based on this library.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
