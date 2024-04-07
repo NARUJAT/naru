@@ -2,9 +2,9 @@
 <h2 align="center">
     ─「 naru music 」─
 
-★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
-</h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+NARU+JAAT+BOY+🎭">
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&color=%237E3ACE&size=30&center=true&vCenter=true&width=550&lines= 𝐓𝐡𝐢𝐬+𝐈𝐬+𝐍𝐚𝐫𝐮+𝐌𝐮𝐬𝐢𝐜+𝐁𝐨𝐭;𝐌𝐚𝐝𝐞+𝐁𝐲+𝐍𝐚𝐫𝐮 𝐉𝐚𝐚𝐭;𝐇𝐞/𝐇𝐢𝐦;𝐋𝐨𝐯𝐞+𝐘𝐨𝐮+𝐒𝐨+𝐌𝐮𝐜𝐡+𝐃𝐦+𝐌𝐞+𝐌𝐫𝐍𝐚𝐫𝐮𝐉𝐚𝐚𝐭"></a>
+</div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
