@@ -1,6 +1,6 @@
 
 <h2 align="center">
-    ─「 naru music 」─
+    ─「 𝐍𝐀𝐑𝐔 𝐗 𝐌𝐔𝐒𝐈𝐂 」─
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&color=%237E3ACE&size=30&center=true&vCenter=true&width=550&lines= 𝐓𝐡𝐢𝐬+𝐈𝐬+𝐍𝐚𝐫𝐮+𝐌𝐮𝐬𝐢𝐜+𝐁𝐨𝐭;𝐌𝐚𝐝𝐞+𝐁𝐲+𝐍𝐚𝐫𝐮 𝐉𝐚𝐚𝐭;𝐇𝐞/𝐇𝐢𝐦;𝐋𝐨𝐯𝐞+𝐘𝐨𝐮+𝐒𝐨+𝐌𝐮𝐜𝐡+𝐃𝐦+𝐌𝐞+𝐌𝐫𝐍𝐚𝐫𝐮𝐉𝐚𝐚𝐭"></a>
